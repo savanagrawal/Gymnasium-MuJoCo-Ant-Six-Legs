@@ -1,0 +1,7 @@
+#Ignore .egg-info
+*.egg-info/
+
+#Ignore pycache
+__pycache__/
+
+.DS_Store
