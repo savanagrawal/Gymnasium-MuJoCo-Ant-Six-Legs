@@ -1,0 +1,6 @@
+gymnasium==0.28.1
+mujoco==2.3.3
+numpy==1.24.3
+
+
+
